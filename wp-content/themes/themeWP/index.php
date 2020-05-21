@@ -1,4 +1,1 @@
-<?php 
-
-	echo "Desde la plantilla"
- ?>
+<?php get_header(); ?>
